@@ -1,0 +1,6 @@
+com/example/model/Resource.class
+com/example/Application.class
+com/example/client/ResourceClient.class
+com/example/controller/ResourceController.class
+com/example/service/ResourceService.class
+com/example/config/AppConfig.class
